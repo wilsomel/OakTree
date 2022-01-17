@@ -1,0 +1,199 @@
+@charset "UTF-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+
+img{
+	position: absolute;
+}
+.darkback {
+  left: -1359px;
+  top: -1125px;
+}
+
+.Clouds{
+  position: absolute;
+  left: 0px;
+  top: 1739px;
+}
+
+.tree {
+  left: 528px;
+  top: 219px;
+}
+
+.one {
+  left: 280.958px;
+  top: 1823.256px;
+}
+
+.two {
+  left: 577.505px;
+  top: 1746.256px;
+}
+
+.three {
+  left: 900.895px;
+  top: 1411.256px;
+}
+
+.four {
+  left: 1293.505px;
+  top: 1582.256px;
+}
+
+.five {
+  left: 1631.755px;
+  top: 1949.256px;
+}
+
+.WD1 {
+  left: 41px;
+  top: 1637px;
+	opacity: 0;
+	transition: 2s
+}
+.WD1:hover{
+	opacity:1;
+}
+
+.WD2 {
+  left: 558px;
+  top: 1458px;	
+	opacity: 0;
+	transition: 2s
+}
+.WD2:hover{
+	opacity:1;
+}
+
+.WD3 {
+  left: 821px;
+  top: 1216px;
+	opacity: 0;
+	transition: 2s
+}
+	.WD3:hover{
+	opacity:1;}
+
+.WD4 {
+  left: 1176px;
+  top: 1458px;
+	opacity: 0;
+	transition: 2s
+}
+	.WD4:hover{
+	opacity:1;
+}
+
+.WTCD5{
+  position: absolute;
+  left: 1498px;
+  top: 1610px;
+	opacity: 0;
+	transition: 2s
+}
+	.WTCD5:hover{
+	opacity:1;
+}
+
+
+.Coudsdark {
+  left: 0px;
+  top: 1834px;
+}
+
+.treedark {
+  left: 637px;
+  top: 232px;
+}
+
+.W1 {
+  left: 141.958px;
+  top: 1738.256px;
+}
+
+.W2{
+  left: 559.505px;
+  top: 1661.256px;
+}
+
+.W3 {
+  left: 873.895px;
+  top: 1426.256px;
+}
+
+.W4 {
+  left: 1214.505px;
+  top: 1697.256px;
+}
+
+.W5 {
+  left: 1622.755px;
+  top: 1864.256px;
+}
+
+.GD1{
+  left: 21px;
+  top: 1501px;
+	opacity: 0;
+	transition: 2s
+}
+.GD1:hover{
+	opacity:1;
+}
+
+.GD2 {
+  left: 494px;
+  top: 1278px;
+		opacity: 0;
+	transition: 2s
+}
+.GD2:hover{
+	opacity:1;
+}
+
+.GD3{
+  left: 851px;
+  top: 1114px;
+	opacity: 0;
+	transition: 2s
+}
+.GD3:hover{
+	opacity:1;
+}
+
+.GD4{
+  left: 1200px;
+  top: 1343px;
+	opacity: 0;
+	transition: 2s
+}
+.GD4:hover{
+	opacity:1;
+}
+
+.GD5 {
+  left: 1478px;
+  top: 1474px;
+	opacity: 0;
+	transition: 2s
+}
+.GD5:hover{
+	opacity:1;
+}
+
+.moon {
+  left: 1611px;
+  top: 71px;		
+	opacity: .25;
+	transition: 2s
+}
+.moon:hover{
+	opacity:1;
+}
+
+
+
+
